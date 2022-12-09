@@ -1,6 +1,6 @@
 package githubDemoProject;
 
-public class randomdemoclass {
+public class Newupdatedclass {
 
 	public static void main(String[] args) {
 		System.out.println("hello");
